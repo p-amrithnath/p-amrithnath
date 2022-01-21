@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm P AMRITHANTH</h1>
+<h1 align="center">Hello folks👋, I'm P AMRITHANTH</h1>
 <h3 align="center">CSE student||Developer||Programmer||Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-amrithnath&label=Profile%20views&color=0e75b6&style=flat" alt="p-amrithnath" /> </p>
