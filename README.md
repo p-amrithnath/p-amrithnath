@@ -2,7 +2,7 @@
 <h3 align="center">CSE student||Developer||Programmer||Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-amrithnath&label=Profile%20views&color=0e75b6&style=flat" alt="p-amrithnath" /> </p>
-![Welcome to my GitHub  profile.](https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif)
+<img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" alt="">
 
 - 🔭 I'm currently studying **cs engineering,CEC**
 
