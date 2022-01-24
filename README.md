@@ -2,7 +2,7 @@
 <h3 align="center">CSE student||Developer||Programmer||Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-amrithnath&label=Profile%20views&color=0e75b6&style=flat" alt="p-amrithnath" /> </p>
-<img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e474354wcjozqn8ob305bosic9i8rzucfmoy4fh1j38&rid=giphy.gif&ct=g" length="1000px" breadth="1000px" alt="">
+<img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e474354wcjozqn8ob305bosic9i8rzucfmoy4fh1j38&rid=giphy.gif&ct=g"  alt="">
 
 - 🔭 I'm currently studying **cs engineering,CEC**
 
